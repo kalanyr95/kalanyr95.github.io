@@ -1,26 +1,26 @@
 "results":[
 	{
-		"Prénom": "Abbas",
-		"Nom": " ",
-		"Sexe": "Mâle",
-		"Âge": "24",
-		"Fonction": "Loup-Garou errant"
+		"prenom": "Abbas",
+		"nom": " ",
+		"sexe": "Mâle",
+		"age": "24",
+		"fonction": "Loup-Garou errant"
 	},
 	{
-		"Prénom": "Aelynn",
-		"Nom": "Portecendres",
-		"Sexe": "Femelle",
-		"Âge": "17",
-		"Fonction": ""
+		"prenom": "Aelynn",
+		"nom": "Portecendres",
+		"sexe": "Femelle",
+		"age": "17",
+		"fonction": ""
 	},
 	{
-		"Prénom": "Aîné",
-		"Nom": "Jeress",
-		"Sexe": "Mâle",
-		"Âge": "27",
-		"Fonction": "Bandit"
+		"prenom": "Aîné",
+		"nom": "Jeress",
+		"sexe": "Mâle",
+		"age": "27",
+		"fonction": "Bandit"
 	},
 	{
-		"Prénom": ""
+		"prenom": ""
 	}
 ]
