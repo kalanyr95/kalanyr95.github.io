@@ -1,27 +1,30 @@
 {"count":4,"results":[
-	{
-		"prenom": "Abbas",
-		"nom": " ",
-		"sexe": "Mâle",
-		"age": "24",
-		"fonction": "Loup-Garou errant"
-	},
-	{
-		"prenom": "Aelynn",
-		"nom": "Portecendres",
-		"sexe": "Femelle",
-		"age": "17",
-		"fonction": ""
-	},
-	{
-		"prenom": "Aîné",
-		"nom": "Jeress",
-		"sexe": "Mâle",
-		"age": "27",
-		"fonction": "Bandit"
-	},
-	{
-		"prenom": ""
-	}
+  {
+    "Prénom": "Abbas",
+    "Nom": "",
+    "Sexe": "Mâle",
+    "Âge": 24,
+    "Fonction": "Loup-Garou errant"
+  },
+  {
+    "Prénom": "Aelynn",
+    "Nom": "Portecendres",
+    "Sexe": "Femelle",
+    "Âge": 17,
+    "Fonction": ""
+  },
+  {
+    "Prénom": "Alestus",
+    "Nom": "",
+    "Sexe": "Mâle",
+    "Âge": "",
+    "Fonction": ""
+  },
+  {
+    "Prénom": "Allen",
+    "Nom": "Cioeneru",
+    "Sexe": "Mâle",
+    "Âge": 24,
+    "Fonction": "Mercenaire"
+  }
 ]
-}
